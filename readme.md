@@ -4,7 +4,7 @@
 
 ### Time Required Around **9hrs**
  
-### [Here Deployed Link of Project]()
+### [Here Deployed Link of Project](https://developer-landing-page-kataifi-3c3d76.netlify.app/)
 
 **FULL WEB-PAGE SCREEN-SHOT
 
